@@ -12,11 +12,6 @@
   "postUpdateOptions": [
     "gomodUpdateImportPaths"
   ],
-  "ignoreDeps": [
-    "bitnami/redis",
-    "bitnami/redis-sentinel",
-    "bitnami/redis-exporter"
-  ],
   "packageRules": [
     {
       "matchPackageNames": [
